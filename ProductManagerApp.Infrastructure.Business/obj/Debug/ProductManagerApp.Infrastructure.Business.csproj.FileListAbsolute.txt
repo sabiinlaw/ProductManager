@@ -1,0 +1,11 @@
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Infrastructure.Business.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Infrastructure.Business.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Services.Interfaces.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\bin\Debug\ProductManagerApp.Services.Interfaces.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\obj\Debug\ProductManagerApp.Infrastructure.Business.csprojAssemblyReference.cache
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\obj\Debug\ProductManagerApp.Infrastructure.Business.csproj.CoreCompileInputs.cache
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\obj\Debug\ProductManagerApp.Infrastructure.Business.csproj.CopyComplete
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\obj\Debug\ProductManagerApp.Infrastructure.Business.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Business\obj\Debug\ProductManagerApp.Infrastructure.Business.pdb

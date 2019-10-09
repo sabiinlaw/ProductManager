@@ -1,0 +1,5 @@
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\bin\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\bin\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.pdb

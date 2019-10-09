@@ -1,0 +1,16 @@
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Infrastructure.Data.dll.config
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Infrastructure.Data.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Infrastructure.Data.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Domain.Interfaces.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\ProductManagerApp.Domain.Interfaces.pdb
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\obj\Debug\ProductManagerApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\obj\Debug\ProductManagerApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\obj\Debug\ProductManagerApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\obj\Debug\ProductManagerApp.Infrastructure.Data.dll
+C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Infrastructure.Data\obj\Debug\ProductManagerApp.Infrastructure.Data.pdb
