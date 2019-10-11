@@ -10,7 +10,7 @@ namespace ProductManagerApp.Controllers
 {
     public class LogController : BaseController
     {
-        ILogService _logService;
+        ILogService _logService;//log service
         public LogController(ILogService logService)
         {
             _logService = logService;
