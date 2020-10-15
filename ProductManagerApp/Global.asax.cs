@@ -50,7 +50,7 @@ namespace ProductManagerApp
             }
             catch
             {
-                requestLogParams.Add("Process Log Error", "Cann't parse [Request].[Params] NameValueCollection");
+                requestLogParams.Add("Process Log Error", "Can't parse [Request].[Params] NameValueCollection");
             }
             logList.Enqueue(JsonConvert.SerializeObject(requestLogParams));
         }
