@@ -7,3 +7,12 @@ C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Interf
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.csproj.CopyComplete
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.dll
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.pdb
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\bin\Debug\ProductManagerApp.Domain.Interfaces.dll
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\bin\Debug\ProductManagerApp.Domain.Interfaces.pdb
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\bin\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\bin\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.csproj.AssemblyReference.cache
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.csproj.CopyComplete
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.dll
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Interfaces\obj\Debug\ProductManagerApp.Domain.Interfaces.pdb

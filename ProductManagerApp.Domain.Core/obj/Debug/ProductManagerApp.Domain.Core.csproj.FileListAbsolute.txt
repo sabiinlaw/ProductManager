@@ -3,3 +3,9 @@ C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\b
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.dll
 C:\Users\okorniei\source\repos\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\bin\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\bin\Debug\ProductManagerApp.Domain.Core.pdb
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.dll
+C:\Users\oleg.kornieiev\source\repos\_testing\ProductManagerApp\ProductManagerApp.Domain.Core\obj\Debug\ProductManagerApp.Domain.Core.pdb
